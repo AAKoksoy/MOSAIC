@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mosaic_logo.png" width="400">
+  <img src="./mosaic_logo.png" width="400">
 </p>
 
 # MOSAIC
