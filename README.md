@@ -1,18 +1,21 @@
-<img width="1254" height="1254" alt="mosaic_logo" src="https://github.com/user-attachments/assets/1589a7eb-feeb-49aa-8654-4c8fcc8e805f" />
+<!-- <img width="1254" height="1254" alt="mosaic_logo" src="https://github.com/user-attachments/assets/1589a7eb-feeb-49aa-8654-4c8fcc8e805f" /> -->
 
+
+<p align="center">
+  <img src="assets/mosaic_logo.png" width="400">
+</p>
 
 # MOSAIC
-## Mapping Organizational States Across InterCellular Ecosystems
 
-
-# MOSAIC
-
-## A Graph-Native Framework for Mapping Organizational States Across InterCellular Ecosystems
+### Mapping Organizational States Across InterCellular Ecosystems
 
 > Graph-Native Spatial Biology Framework
 >
 > Presence is not Architecture.
 
+---
+
+MOSAIC is a graph-native framework for understanding biological organization across spatial and multi-modal datasets.
 MOSAIC is a graph-native framework for understanding biological organization across spatial and multi-modal datasets.
 
 Traditional spatial biology methods primarily focus on:
