@@ -1,8 +1,7 @@
 
 
-img width="1254" height="1254" alt="mosaic_logo" src="https://github-production-user-asset-6210df.s3.amazonaws.com/191628830/611243832-1589a7eb-feeb-49aa-8654-4c8fcc8e805f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260623T041329Z&X-Amz-Expires=300&X-Amz-Signature=80619bd91227014329fc03a61f30070373e132c4540e93515347dfb8618c3895&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng"/>
+<img width="1254" height="1254" alt="mosaic_logo" src="https://github.com/user-attachments/assets/e3f858c7-e6db-4fd3-a87d-59a8214a8bd9" />
 
-# MOSAIC
 
 ### Mapping Organizational States Across InterCellular Ecosystems
 
