@@ -1,4 +1,4 @@
-<!-- <img width="1254" height="1254" alt="mosaic_logo" src="https://github.com/user-attachments/assets/1589a7eb-feeb-49aa-8654-4c8fcc8e805f" /> -->
+img width="1254" height="1254" alt="mosaic_logo" src="https://github.com/user-attachments/assets/1589a7eb-feeb-49aa-8654-4c8fcc8e805f" /> -->
 
 
 <p align="center">
