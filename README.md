@@ -132,6 +132,8 @@ Biology is not merely composed of cells.
 
 Biology is composed of relationships.
 
+Every organizational state in biology has a fingerprint.
+
 ---
 
 ## Status
