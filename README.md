@@ -111,7 +111,9 @@ Initial focus areas include:
 
 ---
 
-## Vision
+## Long-Term Vision
+
+Biological organization is an independent layer of biological information.
 
 The long-term goal of MOSAIC is to create a modality-agnostic framework capable of analyzing organizational states across:
 
