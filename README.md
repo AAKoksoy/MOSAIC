@@ -10,7 +10,18 @@
 > Presence is not Architecture.
 
 ---
+## Documentation
 
+The MOSAIC framework is organized into foundational layers.
+
+- 📖 Introduction
+- 🧬 Layer 0 – Biological Entities
+- 🕸️ Layer 1 – Spatial Graph Construction
+- 📊 Layer 2 – Graph Analytics
+- 🔗 Knowledge Graph Integration
+- 🧪 Examples
+
+---
 MOSAIC is a graph-native framework for understanding biological organization across spatial and multi-modal datasets.
 MOSAIC is a graph-native framework for understanding biological organization across spatial and multi-modal datasets.
 
