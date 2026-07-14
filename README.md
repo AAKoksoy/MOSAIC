@@ -8,7 +8,10 @@
 > Graph-Native Spatial Biology Framework
 >
 > Presence is not Architecture.
-
+> 
+> MOSAIC transforms biological entities into graph representations,
+> graph representations into quantitative organizational features,
+> and organizational features into interpretable tissue fingerprints.
 ---
 ## Documentation
 
