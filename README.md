@@ -23,7 +23,6 @@ The MOSAIC framework is organized into foundational layers.
 
 ---
 MOSAIC is a graph-native framework for understanding biological organization across spatial and multi-modal datasets.
-MOSAIC is a graph-native framework for understanding biological organization across spatial and multi-modal datasets.
 
 Traditional spatial biology methods primarily focus on:
 
