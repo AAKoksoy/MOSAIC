@@ -1,5 +1,10 @@
 # MOSAIC Layer 0 — Biological Entities
 
+Cells
+↓
+
+Biological Entities
+
 ## Purpose
 
 Layer 0 defines the biological entities that enter the MOSAIC framework before any graph construction or network analysis takes place.
