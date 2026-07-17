@@ -1,6 +1,7 @@
 # MOSAIC Layer 0 — Biological Entities
 
 Cells
+
 ↓
 
 Biological Entities
