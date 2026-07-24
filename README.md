@@ -2,6 +2,20 @@
 
 <img width="1254" height="1254" alt="mosaic_logo" src="https://github.com/user-attachments/assets/e3f858c7-e6db-4fd3-a87d-59a8214a8bd9" />
 
+### Current implementation status
+
+✓ Layer 0 Biological Entities
+
+✓ Layer 1 Spatial Graph Construction
+
+✓ Layer 2 Graph Quality & Network Features
+
+🚧 Layer 3 Organizational States
+
+🚧 Layer 4 Tissue Fingerprints
+
+🚧 Layer 5 Multiomic Integration
+
 
 ### Mapping Organizational States Across InterCellular Ecosystems
 
