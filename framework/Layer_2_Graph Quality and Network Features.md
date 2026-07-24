@@ -2,6 +2,13 @@
 
 # MOSAIC Layer 2 — Graph Quality and Network Features
 
+Spatial Graph
+
+↓
+
+Network Features
+
+
 ## Purpose
 
 Layer 2 evaluates whether a spatial graph is technically credible and measures the organizational properties that emerge from it.
