@@ -1,12 +1,4 @@
-Layer 2A
 
-Graph Quality Assessment
-
-↓
-
-Layer 2B
-
-Biological Network Features
 
 # MOSAIC Layer 2 — Graph Quality and Network Features
 
@@ -25,6 +17,16 @@ For this reason, Layer 2 is divided into two analytical stages:
 
 * **Layer 2A — Graph Quality Assessment**
 * **Layer 2B — Biological Network Features**
+
+Layer 2A
+
+Graph Quality Assessment
+
+↓
+
+Layer 2B
+
+Biological Network Features
 
 Graph metrics should not be interpreted biologically until the graph itself has been evaluated for technical artifacts, inappropriate assumptions, and construction errors.
 
