@@ -530,8 +530,12 @@ def _calculate_degree_counts(
     Calculate degree while preserving sample-specific cell identity.
     """
 
-    node_index = pd.MultiIndex.from_frame(
-        cells[[sample_col, cell_id_col]].astype(str)
+    node_index = pd.MultiIndex.from_arrays(
+        [
+            cells[sample_col].astype(str),
+            cells[cell_id_col].astype(str),
+        ],
+        names=[sample_col, "node"],
     )
 
     degree_counts = pd.Series(
@@ -547,14 +551,16 @@ def _calculate_degree_counts(
         [
             edges[sample_col].astype(str),
             edges[source_col].astype(str),
-        ]
+        ],
+        names=[sample_col, "node"],
     )
 
     target_index = pd.MultiIndex.from_arrays(
         [
             edges[sample_col].astype(str),
             edges[target_col].astype(str),
-        ]
+        ],
+        names=[sample_col, "node"],
     )
 
     source_counts = pd.Series(
