@@ -27,6 +27,41 @@
 > graph representations into quantitative organizational features,
 > and organizational features into interpretable tissue fingerprints.
 ---
+## How to Cite
+
+If MOSAIC informs your research, analysis, or software, please cite it.
+A `CITATION.cff` file is included in this repository — GitHub will
+surface a **"Cite this repository"** button on the repo's main page
+(top right, under the "About" panel) that generates APA and BibTeX
+citations automatically from that file.
+
+**Preferred citation (BibTeX):**
+
+```bibtex
+@software{koksoy_mosaic,
+  author  = {Koksoy, Ayse A.},
+  title   = {MOSAIC: Mapping Organizational States Across InterCellular Ecosystems},
+  year    = {2026},
+  url     = {https://github.com/AAKoksoy/MOSAIC},
+  version = {0.1.0}
+}
+```
+
+A peer-reviewed or preprint citation will replace/supplement this
+entry once available. If you build on MOSAIC's framework, layers, or
+naming conventions (Layer 0–5, TLS Finder, organizational states,
+tissue fingerprints) in a publication, please reach out — I'm happy
+to discuss collaboration or co-authorship where appropriate.
+
+## License and Attribution
+
+This project is licensed under Apache-2.0 (see `LICENSE`). The
+license permits reuse and modification with attribution; it does
+not substitute for academic citation. Please cite the software
+directly (above) in any publication, preprint, poster, or derivative
+tool that uses MOSAIC's code, framework structure, or terminology.
+
+---
 ## Documentation
 
 The MOSAIC framework is organized into foundational layers.
