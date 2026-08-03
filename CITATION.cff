@@ -16,6 +16,7 @@ authors:
   - family-names: "Koksoy"
     given-names: "Ayse A."
     affiliation: "Independent Researcher"
+orcid: "https://orcid.org/0000-0003-3092-5410"
 repository-code: "https://github.com/AAKoksoy/MOSAIC"
 url: "https://github.com/AAKoksoy/MOSAIC"
 license: Apache-2.0
