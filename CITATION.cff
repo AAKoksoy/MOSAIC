@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: >-
+  If you use MOSAIC in your research or software, please cite it
+  using the metadata below. A preprint/software-paper citation will
+  be added here once available — please check back or contact the
+  author for the current preferred citation.
+title: "MOSAIC: Mapping Organizational States Across InterCellular Ecosystems"
+abstract: >-
+  MOSAIC is a graph-native framework for representing, measuring,
+  and interpreting cellular organization in spatial biological data.
+  It transforms biological entities into graph representations,
+  graph representations into quantitative organizational features,
+  and organizational features into interpretable tissue fingerprints.
+type: software
+authors:
+  - family-names: "Koksoy"
+    given-names: "Ayse A."
+    affiliation: "Independent Researcher"
+repository-code: "https://github.com/AAKoksoy/MOSAIC"
+url: "https://github.com/AAKoksoy/MOSAIC"
+license: Apache-2.0
+version: 0.1.0
+date-released: "2026-08-02"
+keywords:
+  - spatial biology
+  - spatial omics
+  - graph data science
+  - tumor microenvironment
+  - tertiary lymphoid structures
+  - computational biology
+  - cell-cell interaction networks
