@@ -52,7 +52,7 @@ citations automatically from that file.
   title   = {MOSAIC Spatial: Mapping Organizational States Across InterCellular Ecosystems},
   year    = {2026},
   url     = {https://github.com/AAKoksoy/MOSAIC},
-  version = {0.1.0}
+  version = {0.2.0}
 }
 ```
 
