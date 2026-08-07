@@ -31,13 +31,13 @@ from mosaic.layer2.centrality import compute_degree
 >
 > Presence is not Architecture.
 > 
-> MOSAIC transforms biological entities into graph representations,
+> MOSAIC Spatial transforms biological entities into graph representations,
 > graph representations into quantitative organizational features,
 > and organizational features into interpretable tissue fingerprints.
 ---
 ## How to Cite
 
-If MOSAIC informs your research, analysis, or software, please cite it.
+If MOSAIC Spatial informs your research, analysis, or software, please cite it.
 A `CITATION.cff` file is included in this repository — GitHub will
 surface a **"Cite this repository"** button on the repo's main page
 (top right, under the "About" panel) that generates APA and BibTeX
@@ -73,7 +73,7 @@ tool that uses MOSAIC's code, framework structure, or terminology.
 ---
 ## Documentation
 
-The MOSAIC framework is organized into foundational layers.
+The MOSAIC Spatial framework is organized into foundational layers.
 
 - 📖 Introduction
 - 🧬 Layer 0 – Biological Entities
@@ -83,7 +83,7 @@ The MOSAIC framework is organized into foundational layers.
 - 🧪 Examples
 
 ---
-MOSAIC is a graph-native framework for understanding biological organization across spatial and multi-modal datasets.
+MOSAIC Spatial is a graph-native framework for understanding biological organization across spatial and multi-modal datasets.
 
 Traditional spatial biology methods primarily focus on:
 
@@ -142,7 +142,7 @@ Technologies:
 
 ---
 
-### MOSAIC-Fingerprint
+### MOSAIC Spatial - Fingerprint
 
 Identification of spatial ecosystem signatures and organizational states.
 
@@ -221,7 +221,7 @@ Framework paper and software modules are in preparation.
 
 ## How to Cite
 
-If MOSAIC informs your research, analysis, or software, please cite it.
+If MOSAIC Spatial informs your research, analysis, or software, please cite it.
 A `CITATION.cff` file is included in this repository — GitHub will
 surface a **"Cite this repository"** button on the repo's main page
 (top right, under the "About" panel) that generates APA and BibTeX
