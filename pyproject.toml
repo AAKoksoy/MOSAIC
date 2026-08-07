@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "mosaic-spatial"
 version = "0.1.0"
-description = "Mapping Organizational States Across InterCellular Ecosystems"
+description = "MOSAIC Spatial: Mapping Organizational States Across InterCellular Ecosystems"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
