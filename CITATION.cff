@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: >-
-  If you use MOSAIC in your research or software, please cite it
+  If you use MOSAIC Spatial in your research or software, please cite it
   using the metadata below. A preprint/software-paper citation will
   be added here once available — please check back or contact the
   author for the current preferred citation.
-title: "MOSAIC: Mapping Organizational States Across InterCellular Ecosystems"
+title: "MOSAIC Spatial: Mapping Organizational States Across InterCellular Ecosystems"
 abstract: >-
-  MOSAIC is a graph-native framework for representing, measuring,
+  MOSAIC Spatial is a graph-native framework for representing, measuring,
   and interpreting cellular organization in spatial biological data.
   It transforms biological entities into graph representations,
   graph representations into quantitative organizational features,
