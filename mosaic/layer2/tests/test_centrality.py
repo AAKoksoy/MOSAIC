@@ -199,9 +199,9 @@ def test_path_graph_has_zero_clustering():
 
     clustering = compute_clustering_coefficient(cells, edges)
 
-    assert (
-        clustering["clustering_coefficient"] == pytest.approx(0.0)
-    ).all()
+    assert clustering["clustering_coefficient"].tolist() == pytest.approx(
+    [0.0, 0.0, 0.0, 0.0]
+)
 
 
 def test_compute_network_features_returns_complete_table():
