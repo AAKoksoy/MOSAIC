@@ -49,7 +49,7 @@ citations automatically from that file.
 @software{koksoy_mosaic,
   author  = {Koksoy, Ayse A.},
   orcid   = {https://orcid.org/0000-0003-3092-5410},
-  title   = {MOSAIC: Mapping Organizational States Across InterCellular Ecosystems},
+  title   = {MOSAIC Spatial: Mapping Organizational States Across InterCellular Ecosystems},
   year    = {2026},
   url     = {https://github.com/AAKoksoy/MOSAIC},
   version = {0.1.0}
