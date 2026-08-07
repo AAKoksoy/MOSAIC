@@ -4,7 +4,7 @@
 
 ### Current implementation status
 
-Current version 0.1.0
+Current version 0.2.0
 The distribution name is mosaic-spatial 
 
 
@@ -236,7 +236,7 @@ citations automatically from that file.
   title   = {MOSAIC: Mapping Organizational States Across InterCellular Ecosystems},
   year    = {2026},
   url     = {https://github.com/AAKoksoy/MOSAIC},
-  version = {0.1.0}
+  version = {0.2.0}
 }
 ```
 
