@@ -94,13 +94,13 @@ Traditional spatial biology methods primarily focus on:
 
 While these measurements are essential, they do not fully capture how biological systems are organized.
 
-MOSAIC was developed around a simple observation:
+MOSAIC Spatial was developed around a simple observation:
 
 **Presence is not Architecture.**
 
 Two tissues may contain similar cellular compositions yet exhibit profoundly different spatial organization, ecosystem structure, and biological behavior.
 
-MOSAIC aims to represent biological systems as interconnected ecosystems where:
+MOSAIC Spatial aims to represent biological systems as interconnected ecosystems where:
 
 * Cells become nodes
 * Spatial relationships become edges
@@ -112,7 +112,7 @@ MOSAIC aims to represent biological systems as interconnected ecosystems where:
 
 ## Framework Components
 
-### MOSAIC-TLS
+### MOSAIC Spatial - TLS
 
 Detection and characterization of tertiary lymphoid structures (TLS).
 
@@ -122,7 +122,7 @@ Current implementation:
 
 ---
 
-### MOSAIC-Network
+### MOSAIC Spatial - Network
 
 Graph-based representation of cellular ecosystems.
 
@@ -154,7 +154,7 @@ Potential applications:
 
 ---
 
-### MOSAIC-KG
+### MOSAIC Spatial - KG 
 
 Biological knowledge graph layer.
 
@@ -186,7 +186,7 @@ Initial focus areas include:
 
 Biological organization is an independent layer of biological information.
 
-The long-term goal of MOSAIC is to create a modality-agnostic framework capable of analyzing organizational states across:
+The long-term goal of MOSAIC Spatial is to create a modality-agnostic framework capable of analyzing organizational states across:
 
 * CODEX
 * CosMx
@@ -211,7 +211,7 @@ Every organizational state in biology has a fingerprint.
 
 ## Status
 
-MOSAIC is currently under active development.
+MOSAIC Spatial is currently under active development.
 
 Framework paper and software modules are in preparation.
 
