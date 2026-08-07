@@ -4,11 +4,19 @@
 
 ### Current implementation status
 
+Current version 0.1.0
+The distribution name is mosaic-spatial 
+
+
 ✓ Layer 0 Biological Entities
 
 ✓ Layer 1 Spatial Graph Construction
 
 ✓ Layer 2 Graph Quality & Network Features
+
+eg import:
+from mosaic.layer2.centrality import compute_degree
+
 
 🚧 Layer 3 Organizational States
 
